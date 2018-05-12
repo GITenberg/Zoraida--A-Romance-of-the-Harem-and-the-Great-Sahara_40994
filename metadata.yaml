@@ -22,6 +22,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Le_Queux
 description: A romantic story set in the nineteenth century deserts of the Middle
   East, blending knowledge of Arabic culture, religion and tribal and social behaviour.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40994#Zoraida--A-Romance-of-the-Harem-and-the-Great-Sahara
 gutenberg_issued: '2012-10-09'
 gutenberg_type: Text
 identifiers:
